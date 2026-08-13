@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1786496792790,
+      "tag": "0000_absurd_kulan_gath",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1786496949789,
+      "tag": "0001_glamorous_tempest",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1786497446846,
+      "tag": "0002_clear_venus",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1786499171273,
+      "tag": "0003_broad_devos",
+      "breakpoints": true
+    }
+  ]
+}
